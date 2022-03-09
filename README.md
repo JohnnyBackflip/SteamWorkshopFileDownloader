@@ -22,3 +22,4 @@ NodeJs needs to be installed. I'm running the script with NodeJs v12.16.1 but ot
 ## Things to remember
 1) At the current state it assumes that the downloaded text files are .obj files.
 2) The script is a bit messy. It was quickly thrown together without any intention of readability. 
+3) "How to use" step 1-5" might be automated at a later stage and replaced by copying the workshop URLs into a text file.
