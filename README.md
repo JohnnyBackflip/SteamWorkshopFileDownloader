@@ -2,7 +2,7 @@
 This is a simple script that downloads images, pdfs and text files from the Steam Workshop. It scans a .json file for http(s) links and tries to download everything it can find in that file.
 
 # How to run
-You need NodeJs to be installed. I'm running the script with NodeJs v12.16.1.
+NodeJs needs to be installed. I'm running the script with NodeJs v12.16.1 but other version might work just as well.
 
 ## Install
 1) Clone the repo
