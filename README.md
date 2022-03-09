@@ -1,5 +1,5 @@
 # SteamWorkshopFileDownloader
-This is a simple script that downloads images, pdfs and text files from Steam Workshop .json files. It scans the .json for http(s) links and downloads everything it finds in that file.
+This is a simple script that downloads images, pdfs and text files from the Steam Workshop. It scans a .json file for http(s) links and downloads everything it can find.
 
 # How to run
 You need NodeJs to be installed. I'm running the script with NodeJs v12.16.1.
