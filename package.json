@@ -1,0 +1,20 @@
+{
+  "name": "SteamWorkshopFileDownloader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "nodeHttpJsonScanDownloader.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^3.2.2",
+    "follow-redirects": "^1.14.6",
+    "fs": "0.0.1-security",
+    "http": "0.0.1-security",
+    "https": "^1.0.0",
+    "mmmagic": "^0.5.3",
+    "terminal-overwrite": "^2.0.1"
+  }
+}
