@@ -12,7 +12,7 @@ NodeJs needs to be installed. I'm running the script with NodeJs v12.16.1 but ot
 1) run "npm start"
 
 ## How to use
-1) Visit the Steam Workshop page from the project of which you want to download the files. (https://steamcommunity.com/sharedfiles/filedetails/...)
+1) Visit the Steam Workshop page from the project of which you want to download the files. F.e. (https://steamcommunity.com/sharedfiles/filedetails/...)
 2) Copy the URL of the Project
 3) Go to https://steamworkshopdownloader.io/ , insert the URL and download the .zip file and extract it. There are 2 files in the .zip, the only one needed is the file named "WorkshopUpload.extracted.json".
 4) If you like rename the file (the filename doesn't matter).
