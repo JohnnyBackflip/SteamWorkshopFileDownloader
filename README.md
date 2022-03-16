@@ -1,6 +1,8 @@
 # Steam Workshop file/item downloader
 This is a simple script that downloads images, pdfs and text files from the Steam Workshop. It scans a .json file for http(s) links and tries to download everything it can find in that file.
 
+Works well with Tabletop Simulator workshops.
+
 # How to run
 NodeJs needs to be installed. I'm running the script with NodeJs v12.16.1 but other versions might work just as well.
 
