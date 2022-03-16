@@ -22,4 +22,4 @@ NodeJs needs to be installed. I'm running the script with NodeJs v12.16.1 but ot
 ## Further explanations
 1) At the current state it assumes that the downloaded text files are .obj files. If you don't want that you have add the functionality to open the .txt file and check its content to figure out the correct type.
 2) The script is a bit messy. It was quickly thrown together without any intention of readability. 
-3) "How to use" step 1-5" might be automated at a later stage and replaced by copying the workshop URLs into a text file.
+3) "How to use" step 1-5 might be automated at a later stage and replaced by copying the workshop URLs into a text file.
