@@ -1,3 +1,5 @@
+# DEPRECATED DUE TO CHANGES ON STEAM
+
 # Steam Workshop file/item downloader
 This is a simple script that downloads images, pdfs and text files from the Steam Workshop. It scans a .json file for http(s) links and tries to download everything it can find in that file.
 
